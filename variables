@@ -1,0 +1,8 @@
+answer = "< fill in your answer here >"
+puts "A group of flamingos is called a #{answer}."
+answer = "flamboyance"
+puts "A group of flamingos is called a #{answer}."
+def print_one_plus_one
+  puts 1+1
+end
+print_one_plus_one 
